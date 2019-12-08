@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/click.mp3</file>
+        <file>res/help.png</file>
+        <file>res/home.png</file>
+        <file>res/quit.png</file>
+        <file>res/return.png</file>
+        <file>res/rule.png</file>
+        <file>res/history.png</file>
+        <file>res/look.png</file>
+        <file>res/medal.png</file>
+        <file>res/trend.png</file>
+        <file>res/arrow_1.cur</file>
+        <file>res/text.cur</file>
+        <file>res/btn.png</file>
+        <file>res/btn_hover.png</file>
+        <file>res/btn_pressed.png</file>
+        <file>res/celebration.gif</file>
+        <file>res/cheer.mp3</file>
+        <file>res/bgm.mp3</file>
+        <file>res/arrow_2.cur</file>
+        <file>res/title.png</file>
+        <file>res/1.gif</file>
+        <file>res/2.gif</file>
+        <file>res/3.gif</file>
+        <file>res/4.gif</file>
+        <file>res/5.gif</file>
+        <file>res/6.gif</file>
+        <file>res/turn_off.png</file>
+        <file>res/turn_on.png</file>
+        <file>res/back_ground.gif</file>
+        <file>res/blank.png</file>
+        <file>res/back_ground_2.jpg</file>
+        <file>res/back_ground_3.jpg</file>
+        <file>res/golden.png</file>
+    </qresource>
+</RCC>

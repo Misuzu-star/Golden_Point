@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>punish_page</class>
+ <widget class="QMainWindow" name="punish_page">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>720</width>
+    <height>450</height>
+   </rect>
+  </property>
+  <property name="cursor">
+   <cursorShape>UpArrowCursor</cursorShape>
+  </property>
+  <property name="windowTitle">
+   <string>黄金点游戏</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>720</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menustart">
+    <property name="title">
+     <string>start</string>
+    </property>
+    <addaction name="action_back"/>
+    <addaction name="action_quit"/>
+   </widget>
+   <widget class="QMenu" name="menuhelp">
+    <property name="title">
+     <string>help</string>
+    </property>
+    <addaction name="action_rule"/>
+   </widget>
+   <addaction name="menustart"/>
+   <addaction name="menuhelp"/>
+  </widget>
+  <action name="action_back">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/res/return.png</normaloff>:/res/return.png</iconset>
+   </property>
+   <property name="text">
+    <string>返回上页</string>
+   </property>
+  </action>
+  <action name="action_quit">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/res/quit.png</normaloff>:/res/quit.png</iconset>
+   </property>
+   <property name="text">
+    <string>退出游戏</string>
+   </property>
+  </action>
+  <action name="action_rule">
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/res/rule.png</normaloff>:/res/rule.png</iconset>
+   </property>
+   <property name="text">
+    <string>游戏规则</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,14 @@
+
+源代码需在 Qt 5.11.2或以上版本运行
+媒体播放需安装LAV Filters插件
+
+下载LAV Filters地址http://forum.doom9.org/showthread.php?t=156191 里的
+
+Binaries for the most recent version are available here:
+Version 0.68.1: Installer (both x86/x64) -- Zips: 32-bit & 64-bit
+Download 3D Plugin: 32-bit & 64-bit
+
+选择32bit或者64bit下载完安装后，再运行程序，运行无错误，能够正常播放视频或音频。
+
+
+软件可在winx运行，无需安装任何插件
